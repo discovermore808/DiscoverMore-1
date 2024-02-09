@@ -1,2 +1,0 @@
-# DiscoverMore
- App files
